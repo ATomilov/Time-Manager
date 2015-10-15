@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="236" Width="525">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="205" VerticalAlignment="Top" Width="517">
+            <TabItem Header="Задачи">
+                <Grid Background="White">
+                    <Button x:Name="CountUp_Button" Content="Работать" HorizontalAlignment="Left" Margin="382,36,0,0" VerticalAlignment="Top" Width="100" Click="CountUp_Click" Height="30"/>
+                    <Label x:Name="tmlabel" Content="" HorizontalAlignment="Left" Margin="24,86,0,0" VerticalAlignment="Top" Height="25" Width="200" FontSize="14" FontWeight="Bold"/>
+                    <Label x:Name="tmlabel_Copy" Content="Времени прошло:" HorizontalAlignment="Left" Margin="24,66,0,0" VerticalAlignment="Top" Height="32" Width="200" FontSize="14" FontWeight="Bold"/>
+                    <ComboBox HorizontalAlignment="Left" Margin="24,36,0,0" VerticalAlignment="Top" Width="235" Height="30"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Сроки">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="White"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
