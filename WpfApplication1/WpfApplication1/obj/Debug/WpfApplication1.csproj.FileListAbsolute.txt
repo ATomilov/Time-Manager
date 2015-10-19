@@ -24,3 +24,16 @@ C:\Users\Ксения\Desktop\тайм менеджер\WpfApplication1\WpfAppli
 C:\Users\Ксения\Desktop\тайм менеджер\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
 C:\Users\Ксения\Desktop\тайм менеджер\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
 C:\Users\Ксения\Desktop\тайм менеджер\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Time\Time-Manager\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
